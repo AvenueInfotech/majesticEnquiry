@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "665182482829",
+    "firebase_url": "https://majestic-enquiry.firebaseio.com",
+    "project_id": "majestic-enquiry",
+    "storage_bucket": "majestic-enquiry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665182482829:android:048d3ebcfbf6cec2",
+        "android_client_info": {
+          "package_name": "com.sukenkar.majesticenquiry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665182482829-5pivkj6sg8o5taubuouuuv3rcd8dllcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sukenkar.majesticenquiry",
+            "certificate_hash": "3363D95B8A9657458CE9D3EFD5A7BD9BFB74D9CB"
+          }
+        },
+        {
+          "client_id": "665182482829-m3b8ofi2db2t9bfc88m2e58vqn5h9igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcLaFvmQ-CIb7ws0MJIHeaPMOHTRIdiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665182482829-m3b8ofi2db2t9bfc88m2e58vqn5h9igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
